@@ -6,12 +6,38 @@ This is a central repo with all of our take-home assignments.
 
 If you've applied for a job at ZibaSec, you will receive instructions via email on which assignment(s) to handle.
 
+You must submit code in Python, JavaScript, or Go – choose the language that you’re strongest in. If you want to use another language, we may be able to accommodate you, but please check with us first.
+
+Your code sample is due one-week starting on the day after you've been given a link to this repo. Please don’t be late; if you miss the deadline, that’ll jeopardize your application.
+
+One of your interviews will be with someone who has reviewed and run your code, so be prepared to explain your code, walk through it with our interviewer, and answer questions.
+
+Choose from one of these exercises, and only complete a single exercise:
+
+* https://github.com/zibasec-recruiting/assignments/tree/master/magic8
+* https://homework.adhoc.team/fetch/
+* https://homework.adhoc.team/hhbuilder/
+* https://homework.adhoc.team/slcsp/
+* https://homework.adhoc.team/noclist/
+
+Each exercise has its own rules and instructions. Where our rules and Ad Hoc’s differ, follow our rules. Let us know if you have questions!
+
+As mentioned above, please use Python, JavaScript, or Go (or contact us for a special arrangement).
+
+Include documentation about your development environment and instructions on how to run your program. Make sure that someone familiar with your chosen language can easily run your code.
+
+Include tests and instructions on how to run the tests.
+
+Please don’t spend more than 4 hours on your exercise. If you reach 4 hours, and haven’t completed work, please contact us and we’ll help you decide what to do next.
+
+Good luck! If you have any questions, please let us know!
+
+
 ### Submission
 
 To submit your work:
 
 1. Create a private repository in _your_ GitHub account
-1. Do the work in the README of the assignment, feel free to copy this over to your repository
 1. Add @defionscode and @shepdelacreme to your repo as collaborators
 1. Email HireMe@zibasec.io to let us know that you're done
 
