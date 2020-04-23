@@ -1,10 +1,8 @@
 # ZibaSec Homework Assignments
 
-This is a central repo with all of our take-home assignments.
+This is a central repo with all of our take-home assignments. 
 
 ## Instructions
-
-If you've applied for a job at ZibaSec, you will receive instructions via email on which assignment(s) to handle.
 
 You must submit code in Python, JavaScript, or Go – choose the language that you’re strongest in. If you want to use another language, we may be able to accommodate you, but please check with us first.
 
@@ -12,7 +10,7 @@ Your code sample is due one-week starting on the day after you've been given a l
 
 One of your interviews will be with someone who has reviewed and run your code, so be prepared to explain your code, walk through it with our interviewer, and answer questions.
 
-Choose from one of these exercises, and only complete a single exercise:
+Choose from one of these exercises, and only complete a single exercise. It is recommended that you skim through each README and pick the one that would best showcase the technical work of the job your applying for (yes, part of evaluation is looking at what assignment you chose in relation to the job you are applying for):
 
 * https://github.com/zibasec-recruiting/assignments/tree/master/magic8
 * https://homework.adhoc.team/fetch/
