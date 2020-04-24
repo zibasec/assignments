@@ -26,6 +26,8 @@ Include documentation about your development environment and instructions on how
 
 Include tests and instructions on how to run the tests.
 
+Use as few external depdendencies as possible.
+
 Please don’t spend more than 4 hours on your exercise. If you reach 4 hours, and haven’t completed work, please contact us and we’ll help you decide what to do next.
 
 Good luck! If you have any questions, please let us know!
@@ -42,12 +44,12 @@ To submit your work:
 
 ### Feedback
 
-Within a business week, you'll receive feedback in the form of a GitHub issue on your repo. You'll be welcomed to set up a follow up call with one our folks to discuss your work _if_ and only _if_ you desire. Whether or not you opt for a follow-up call has not bearing on our hiring decision.
+Within a business week, you'll receive feedback in the form of a GitHub issue on your repo. You'll be welcomed to set up a follow up call with one our folks to discuss your work _if_ and only _if_ you desire. Whether or not you opt for a follow-up call has no bearing on our hiring decision.
 
 
 ### Next Steps
 
-If you did the work properly, we'll invite you to the next step which you'll be informed of separately.
+If you did the work without any major red-flags (or plagiarism), we'll invite you to the next step which you'll be informed of separately.
 
 
 ### FAQ
