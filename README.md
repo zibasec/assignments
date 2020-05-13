@@ -38,7 +38,7 @@ Good luck! If you have any questions, please let us know!
 To submit your work:
 
 1. Create a private repository in _your_ GitHub account
-1. Add @defionscode and @shepdelacreme to your repo as collaborators
+1. Add @defionscode @vdzs and @shepdelacreme to your repo as collaborators
 1. Email HireMe@zibasec.io to let us know that you're done
 
 
