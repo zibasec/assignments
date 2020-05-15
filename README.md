@@ -4,7 +4,7 @@ This is a central repo with all of our take-home assignments.
 
 ## Instructions
 
-You must submit code in Python, JavaScript, or Go – choose the language that you’re strongest in. If you want to use another language, we may be able to accommodate you, but please check with us first.
+You must submit code in Python or JavaScript/nodejs – choose the language that you’re strongest in. If you want to use another language, we may be able to accommodate you, but please check with us first.
 
 Your code sample is due one-week starting on the day after you've been given a link to this repo. Please don’t be late; if you miss the deadline, that’ll jeopardize your application.
 
@@ -20,7 +20,7 @@ Choose from one of these exercises, and only complete a single exercise. It is r
 
 Each exercise has its own rules and instructions. Where our rules and Ad Hoc’s differ, follow our rules. Let us know if you have questions!
 
-As mentioned above, please use Python, JavaScript, or Go (or contact us for a special arrangement).
+As mentioned above, please use Python, or JavaScript/nodejs (or contact us for a special arrangement).
 
 Include documentation about your development environment and instructions on how to run your program. Make sure that someone familiar with your chosen language can easily run your code.
 
@@ -54,6 +54,6 @@ If you did the work without any major red-flags (or plagiarism), we'll invite yo
 
 ### FAQ
 
-1. Questions? Email HireMe@zibasec.io
+1. Questions? Email HireMe@zibasec.io. Asking and not-asking questions bear no impact on how we evaluate your submission.
 2. Need an extension? Depending on the cicumstance, that's probably ok. Again, email HireMe@zibasec.io to request an extension.
 3. How long should I spend on this? No more than 4 hours. Do what you can in 4 hours total of effort. Feel free to submit partially complete assignments but be sure to address the what and why of your shortcoming.
