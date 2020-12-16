@@ -26,7 +26,7 @@ Include documentation about your development environment and instructions on how
 
 Include tests and instructions on how to run the tests.
 
-Use as few external depdendencies as possible.
+Use as few external dependencies as possible.
 
 Please don’t spend more than 4 hours on your exercise. If you reach 4 hours, and haven’t completed work, please contact us and we’ll help you decide what to do next.
 
